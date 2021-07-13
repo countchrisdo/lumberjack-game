@@ -31,5 +31,3 @@ function render() {
   "Chopped Wood: " + cutWood;
   woodColEl.innerText = 'Collected Wood: ' + woodCol;
 }
-
-
